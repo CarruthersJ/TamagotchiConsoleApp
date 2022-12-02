@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E3F0EB5D2937623900BE1E9E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F0EB5C2937623900BE1E9E /* main.swift */; };
-		E3F0EB72293763A600BE1E9E /* TamgotchiTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F0EB71293763A600BE1E9E /* TamgotchiTest.swift */; };
+		E3F0EB72293763A600BE1E9E /* TamagotchiTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F0EB71293763A600BE1E9E /* TamagotchiTest.swift */; };
 		E3F0EB742937648F00BE1E9E /* Tamagotchi.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F0EB732937648F00BE1E9E /* Tamagotchi.swift */; };
 		E3F0EB752937648F00BE1E9E /* Tamagotchi.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F0EB732937648F00BE1E9E /* Tamagotchi.swift */; };
 /* End PBXBuildFile section */
@@ -29,7 +29,7 @@
 		E3F0EB592937623900BE1E9E /* TamagotchiConsoleApp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TamagotchiConsoleApp; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3F0EB5C2937623900BE1E9E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		E3F0EB67293762D100BE1E9E /* TamagotchiConsoleAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TamagotchiConsoleAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E3F0EB71293763A600BE1E9E /* TamgotchiTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TamgotchiTest.swift; sourceTree = "<group>"; };
+		E3F0EB71293763A600BE1E9E /* TamagotchiTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TamagotchiTest.swift; sourceTree = "<group>"; };
 		E3F0EB732937648F00BE1E9E /* Tamagotchi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tamagotchi.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -81,7 +81,7 @@
 		E3F0EB68293762D100BE1E9E /* TamagotchiConsoleAppTests */ = {
 			isa = PBXGroup;
 			children = (
-				E3F0EB71293763A600BE1E9E /* TamgotchiTest.swift */,
+				E3F0EB71293763A600BE1E9E /* TamagotchiTest.swift */,
 			);
 			path = TamagotchiConsoleAppTests;
 			sourceTree = "<group>";
@@ -184,7 +184,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E3F0EB72293763A600BE1E9E /* TamgotchiTest.swift in Sources */,
+				E3F0EB72293763A600BE1E9E /* TamagotchiTest.swift in Sources */,
 				E3F0EB752937648F00BE1E9E /* Tamagotchi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
